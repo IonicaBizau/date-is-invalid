@@ -7,7 +7,6 @@
 ```sh
 $ npm i --save date-is-invalid
 ```
-
             
 ## :clipboard: Example
 
