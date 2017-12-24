@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save date-is-invalid
+# Using npm
+npm install --save date-is-invalid
+
+# Using yarn
+yarn add date-is-invalid
 ```
 
 
